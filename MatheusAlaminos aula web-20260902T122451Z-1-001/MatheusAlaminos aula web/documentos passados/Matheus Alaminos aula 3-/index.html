@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/CSS/estilos.css">
+    <title>Tabela</title>
+    <style>
+
+    </style>
+</head>
+<body>
+    <div id = "tudo">
+        <header>
+            <h2>Cabeça</h2>
+        </header>
+        <main>
+            <h1>Tabelas e Formulários</h1>
+            <table>
+                <tr>
+                    <th>Nome</th>
+                    <th>Idade</th>
+                    <th>Cidade</th>
+                </tr>
+                <tr>
+                    <td>Ana</td>
+                    <td>25</td>
+                    <td>Curitiba</td>
+                </tr>
+                <tr>
+                    <td>João</td>
+                    <td>30</td>
+                    <td>São Paulo</td>
+                </tr>
+                <tr>
+                    <td  id = "rod"
+                    colspan="3">Média das idades: 27,5</td>
+                </tr>
+                </table>
+
+                <p>Formulário</p>
+
+                <form action="">
+                    <label for="nome">Nome Completo:</label>
+                    <input type="text" id="nome" name="nome" required minlength="3" placeholder="Digite seu nome">
+
+                    <label for="email">E-mail:</label>
+                    <input type="email" id="email" name="email" required placeholder="seu@email.com">
+
+                    <label for="senha">Senha (mínimo 6 caracteres):</label>
+                    <input type="password" id="senha" name="senha" required minlength="6">
+                    
+                    <button type="submit">Enviar</button>
+                </form>
+        </main>
+        <footer>
+            <h2>Rodapé</h2>
+        </footer>
+    
+    
+    </div>
+</body>
+</html>
