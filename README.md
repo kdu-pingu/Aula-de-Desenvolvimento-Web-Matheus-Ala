@@ -16,7 +16,7 @@ Sobre mim
 -Atualmente, busco minha primeira oportunidade profissional em tecnologia.
 
 
-Projetos Web
+Este Projeto
 
 -Repositório com diversas pastas de projetos desenvolvidos para a disciplina de Desenvolvimento Web, organizadas para reunir diferentes atividades e aplicações.
 
