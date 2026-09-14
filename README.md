@@ -11,7 +11,7 @@ Sobre mim
 
 -Tenho interesse em LLMs, arquitetura de sistemas, análise de dados e automação de fluxos de trabalho, com foco em aprendizado contínuo e resolução de problemas.
 
--Como projeto acadêmico, desenvolvo o Ticket Lab, uma aplicação de venda de ingressos para shows e camarotes com sistema de assinaturas para consumidores e artistas.
+-Como projeto acadêmico, desenvolvi o Ticket Lab, uma aplicação de venda de ingressos para shows e camarotes com sistema de assinaturas para consumidores e artistas, foi feito um protótipo da interface no figma.
 
 -Atualmente, busco minha primeira oportunidade profissional em tecnologia.
 
