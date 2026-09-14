@@ -4,6 +4,7 @@ Matheus Alaminos
 Estudante de Análise e Desenvolvimento de Sistemas | IA & Dados
 
  Curitiba, Paraná ·  matheus.alaminos@gmail.com ·  LinkedIn: www.linkedin.com/in/moalaminos-0ba400414 
+
 Sobre mim
 
 -Estudante de ADS com foco em Inteligência Artificial, Engenharia de Dados e desenvolvimento de soluções tecnológicas.
