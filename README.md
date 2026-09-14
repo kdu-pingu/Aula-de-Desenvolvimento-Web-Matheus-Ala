@@ -38,10 +38,3 @@ Certificações
 -Governança de Dados — Escola Virtual de Governo (EV.G)
 
 -Excel Intermediário / Avançado — Escola Virtual de Governo (EV.G)
-
-
-Contato
-
-LinkedIn: linkedin.com/in/moalaminos-0ba400414
-
-E-mail: matheus.alaminos@gmail.com
